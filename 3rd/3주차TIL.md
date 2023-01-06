@@ -20,7 +20,7 @@ interface로 구현한 이유: 아직 데이터 저장소가 선정되지 않았
 검증 방법: main 메소드를 통해 실행하거나 웹 애플리케이션의 컨트롤러를 통해 검증함
 준비시간이 오래 걸리고 반복 실행이 어렵다는 단점이 존재  자바에선 JUnit이라는 프레임워크로 실행해 이러한 문제점을 해결
 
-테스트가 하나 끝나면 리포지토리를 깔끔하게 클리어 해줘야함
+테스트가 하나 끝나면 리포지토리를 깔끔하게 클리어 해줘야함  
 ![image](https://user-images.githubusercontent.com/121391259/211024859-bd9513be-32e6-4ef1-a3ce-8fbc74bae717.png)
 ![image](https://user-images.githubusercontent.com/121391259/211024895-7c7e2a18-4dde-4902-af58-a8c8015fb12d.png)
 
